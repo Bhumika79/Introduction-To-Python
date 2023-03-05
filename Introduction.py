@@ -10,7 +10,6 @@ else:
     elif n>20:
         print("Not weird")
 
-
 #Q2. WAP to read an integer ‘n’ from STDIN. For all non-negative integers i<n, print i**2 on a separate line.
 n=int(input("Enter any number:"));
 for i in range(0,n):

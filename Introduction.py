@@ -16,7 +16,6 @@ for i in range(0,n):
     i=i**2
     print(i)
 
-
 #Q3. WAP to read an integer from STDIN. Without using any string methods, print the following on a single line: 123…n
 n=int(input("Enter any number:"));
 for i in range(1,n+1):
